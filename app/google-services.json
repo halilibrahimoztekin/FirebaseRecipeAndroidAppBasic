@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "977944832269",
+    "firebase_url": "https://my-application2-207f4-default-rtdb.firebaseio.com",
+    "project_id": "my-application2-207f4",
+    "storage_bucket": "my-application2-207f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977944832269:android:cba8d286cb6bc1e8ce6844",
+        "android_client_info": {
+          "package_name": "com.isoas.fooddinnerdietblogwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977944832269-m96cj2kst51rfp0ltcoc3t93mmfg5pks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28XNZ2-Mf1Wk8vf8D2UDyFsxXPiQgfLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977944832269-m96cj2kst51rfp0ltcoc3t93mmfg5pks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977944832269:android:fb4ad585fc2c8919ce6844",
+        "android_client_info": {
+          "package_name": "com.isoas.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977944832269-m96cj2kst51rfp0ltcoc3t93mmfg5pks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28XNZ2-Mf1Wk8vf8D2UDyFsxXPiQgfLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977944832269-m96cj2kst51rfp0ltcoc3t93mmfg5pks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
